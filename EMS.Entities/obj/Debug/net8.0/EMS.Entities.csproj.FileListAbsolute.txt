@@ -1,0 +1,36 @@
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\bin\Debug\net8.0\EMS.Entities.deps.json
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\bin\Debug\net8.0\EMS.Entities.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\bin\Debug\net8.0\EMS.Entities.pdb
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\obj\Debug\net8.0\EMS.Entities.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\obj\Debug\net8.0\EMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\obj\Debug\net8.0\EMS.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\obj\Debug\net8.0\EMS.Entities.AssemblyInfo.cs
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\obj\Debug\net8.0\EMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\obj\Debug\net8.0\EMS.Entities.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\obj\Debug\net8.0\refint\EMS.Entities.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\obj\Debug\net8.0\EMS.Entities.pdb
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Entities\obj\Debug\net8.0\ref\EMS.Entities.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\bin\Debug\net8.0\EMS.Entities.deps.json
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\bin\Debug\net8.0\EMS.Entities.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\bin\Debug\net8.0\EMS.Entities.pdb
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.AssemblyInfo.cs
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\refint\EMS.Entities.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.pdb
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\ref\EMS.Entities.dll
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\bin\Debug\net8.0\EMS.Entities.deps.json
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\bin\Debug\net8.0\EMS.Entities.dll
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\bin\Debug\net8.0\EMS.Entities.pdb
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.AssemblyInfo.cs
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.dll
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\refint\EMS.Entities.dll
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\EMS.Entities.pdb
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Entities\obj\Debug\net8.0\ref\EMS.Entities.dll

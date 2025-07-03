@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.Entities", "EMS.Entities.csproj", "{F5549AC9-6724-4755-A2B5-AC1E7D8A0D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.Repositories", "..\EMS.Repositories\EMS.Repositories.csproj", "{198E5FB8-15A1-4F3A-BED8-A5388A7D1B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS.UI", "..\EMS.UI\EMS.UI.csproj", "{485A1830-05C6-441E-AEB2-DCD91EBA9793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5549AC9-6724-4755-A2B5-AC1E7D8A0D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5549AC9-6724-4755-A2B5-AC1E7D8A0D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5549AC9-6724-4755-A2B5-AC1E7D8A0D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5549AC9-6724-4755-A2B5-AC1E7D8A0D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198E5FB8-15A1-4F3A-BED8-A5388A7D1B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198E5FB8-15A1-4F3A-BED8-A5388A7D1B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198E5FB8-15A1-4F3A-BED8-A5388A7D1B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198E5FB8-15A1-4F3A-BED8-A5388A7D1B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485A1830-05C6-441E-AEB2-DCD91EBA9793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485A1830-05C6-441E-AEB2-DCD91EBA9793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485A1830-05C6-441E-AEB2-DCD91EBA9793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485A1830-05C6-441E-AEB2-DCD91EBA9793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

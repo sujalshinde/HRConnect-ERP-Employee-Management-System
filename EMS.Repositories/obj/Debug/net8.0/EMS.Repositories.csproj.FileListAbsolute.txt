@@ -1,0 +1,45 @@
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\bin\Debug\net8.0\EMS.Repositories.deps.json
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\bin\Debug\net8.0\EMS.Repositories.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\bin\Debug\net8.0\EMS.Repositories.pdb
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\bin\Debug\net8.0\EMS.Entities.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\bin\Debug\net8.0\EMS.Entities.pdb
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.AssemblyInfo.cs
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\obj\Debug\net8.0\EMS.Repo.108E3D59.Up2Date
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\obj\Debug\net8.0\refint\EMS.Repositories.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.pdb
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\EMS.Repositories\obj\Debug\net8.0\ref\EMS.Repositories.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\bin\Debug\net8.0\EMS.Repositories.deps.json
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\bin\Debug\net8.0\EMS.Repositories.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\bin\Debug\net8.0\EMS.Repositories.pdb
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\bin\Debug\net8.0\EMS.Entities.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\bin\Debug\net8.0\EMS.Entities.pdb
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.AssemblyInfo.cs
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repo.108E3D59.Up2Date
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\refint\EMS.Repositories.dll
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.pdb
+C:\Users\hp\Desktop\Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\ref\EMS.Repositories.dll
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\bin\Debug\net8.0\EMS.Repositories.deps.json
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\bin\Debug\net8.0\EMS.Repositories.dll
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\bin\Debug\net8.0\EMS.Repositories.pdb
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\bin\Debug\net8.0\EMS.Entities.dll
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\bin\Debug\net8.0\EMS.Entities.pdb
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.AssemblyInfo.cs
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repo.108E3D59.Up2Date
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.dll
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\refint\EMS.Repositories.dll
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\EMS.Repositories.pdb
+C:\Users\hp\Desktop\.Net Full Stack Development\.Net Core\.Net Projects\Employee Management System\EMS.Repositories\obj\Debug\net8.0\ref\EMS.Repositories.dll
